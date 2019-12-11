@@ -1,7 +1,8 @@
-# Everyone is currently helping with creating things and organizing supplies.
+## Everyone is currently helping with creating things and organizing supplies.
 
 ---
+You are feeling tried, what should you do?
 
-##[I will stay in school to survive because it's safe](school.md)
+##[I feel like slacking off and go on my phone. We can charge our phone anyways.]()
 
-##[Find your family/Go outside](outside-school/)
+##[I want to help the team as much as possible. I don't wanna die!!]()
