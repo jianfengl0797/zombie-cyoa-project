@@ -1,4 +1,4 @@
-### You decide to go home first, but you saw the new about an evacuation area guard by soliders that's nearby. 
+### You decide to go home first, but you saw the news about an evacuation area guarded by soldiers that's nearby. 
 
 ----
 1.[To home that's far away](girl/girl-fighting.md)
