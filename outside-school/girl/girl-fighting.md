@@ -2,6 +2,6 @@
 
 ---
 ## What will you do? 
-1.[Fight](../bad-end.mc)
+1.[Fight](../bad-end.md)
 
 2.[Run](stay-home.md)
