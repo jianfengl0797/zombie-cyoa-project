@@ -1,6 +1,6 @@
 # TO BE CONTINUED
 
-!(TBC)[TBC.jpg]
+![TBC](TBC.jpg)
 
 Credit: Jojo's Bizarre Adventure
 
