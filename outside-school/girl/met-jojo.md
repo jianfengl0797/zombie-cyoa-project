@@ -2,6 +2,6 @@
 ---
 
 ## What will you do?
-[Fight](TO BE CONTINUED.md)
+[Fight](TBC.md)
 
-[Fight](TO BE CONTINUED.md)
+[Fight](TBC.md)
