@@ -2,7 +2,7 @@
 ---
 ![jojo](Jotaro.png)
 
-Credit: Jojo's Bizarre Ddventure
+Credit: Jojo's Bizarre Adventure
 
 
 1.[FIGHT](met-jojo.md)

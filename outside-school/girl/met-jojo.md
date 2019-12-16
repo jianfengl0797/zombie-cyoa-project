@@ -3,7 +3,7 @@
 
 ![Running-away](Approaching-me.jpg)
 
-Credit: Jojo's Bizarre Ddventure
+Credit: Jojo's Bizarre adventure
 
 ## What will you do?
 [Fight](TBC.md)
