@@ -7,4 +7,4 @@ However, you feel a sense of hatred......
 
 [I will ruin everything they have](got-caught.md)
 
-[Nah, I'll just leave](../../outside-school/)
+[Nah, I'll just leave](../outside-school/)
